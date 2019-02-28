@@ -5,7 +5,7 @@ const  Facenet  = require('facenet')  // from 'facenet'
   */
   // import { log }      from '../'
   // log.level('silly')
-  
+  console.log('hola')
   async function main() {
     // Instanciate FaceNet
     const facenet = new Facenet.Facenet()
