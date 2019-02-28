@@ -1,0 +1,16 @@
+{
+  "name": "sistemavision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "facenet": "^0.10.3",
+    "flash-store": "^0.12.1",
+    "numjs": "^0.16.0"
+  }
+}
